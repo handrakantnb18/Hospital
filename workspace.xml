@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2eeec046-3da5-41b8-b5b5-58aedb3dd25d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2i2l9ioJAit5o2TkGJsAZnxSMd0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HospitalManagementSystemApplication.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.All in Hospital-Management-System.executor": "Coverage",
+    "Remote JVM Debug.Service Remote Debug.executor": "Debug",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Smart Tomcat.test.executor": "Debug",
+    "Smart Tomcat.test1.executor": "Run",
+    "Smart Tomcat.tomcat 9.0.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Apache Tomcat/apache-tomcat-9.0.89/apache-tomcat-9.0.89",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Smart Tomcat.tomcat 9.0">
+    <configuration name="HospitalManagementSystemApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Hospital.Management.System.HospitalManagementSystemApplication" />
+      <module name="Hospital-Management-System" />
+      <option name="VM_PARAMETERS" value="-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:5005" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Hospital.Management.System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Hospital-Management-System" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hospital-Management-System" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service Remote Debug" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="tomcat 9.0" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="C:\Users\DELL\.SmartTomcat\Hospital Management System\Hospital Management System" />
+      <option name="contextPath" value="C:\Users\DELL\.m2\repository\org\springframework\boot\spring-boot\3.3.0" />
+      <option name="docBase" value="C:\Users\DELL\.m2\repository\org\springframework\boot\spring-boot\3.3.0" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.89" />
+          <option name="path" value="$PROJECT_DIR$/../../Apache Tomcat/apache-tomcat-9.0.89/apache-tomcat-9.0.89" />
+          <option name="version" value="9.0.89.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="-Xmx1024m -Dspaces=&quot;some arg&quot; -Dmy.prop=\&quot;quoted_value\&quot; -Dfoo=${MY_ENV_VAR}" />
+      <module name="Hospital-Management-System" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HospitalManagementSystemApplication" />
+      <item itemvalue="JUnit.All in Hospital-Management-System" />
+      <item itemvalue="Remote JVM Debug.Service Remote Debug" />
+      <item itemvalue="Smart Tomcat.tomcat 9.0" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Hospital-Management-System" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\DELL\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eeec046-3da5-41b8-b5b5-58aedb3dd25d" name="Changes" comment="" />
+      <created>1718696403214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718696403214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hospital_Management_System$All_in_Hospital_Management_System.ic" NAME="All in Hospital-Management-System Coverage Results" MODIFIED="1718712148286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/Hospital_Management_System$HospitalManagementSystemApplication.ic" NAME="HospitalManagementSystemApplication Coverage Results" MODIFIED="1719207231239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.Hospital.Management.System.*</FILTER>
+    </SUITE>
+  </component>
+</project>
